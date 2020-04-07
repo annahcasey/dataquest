@@ -2,3 +2,4 @@
 *.tsv
 *.xls*
 *.pdf
+*.ipynb_checkpoints*
