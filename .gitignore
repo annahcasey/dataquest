@@ -1,5 +1,7 @@
 *.csv
-*.tsv
-*.xls*
+*.*sv
+*.json
+*.db
+*.xl*
 *.pdf
 *.ipynb_checkpoints*
